@@ -7,6 +7,8 @@ parallel processing. This package is useful for creating mosaics of
 time-series data. By utilizing the GDAL capabilities, `FutureMosaic`
 offers a simple yet powerful tool for spatio-temporal data mosaicking.
 
+> **Note**: This is a **hobby project**
+
 ## Installation
 
 You can install the development version of `futuremosaic` like so:

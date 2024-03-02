@@ -6,6 +6,8 @@ output: github_document
 
 `FutureMosaic` is an R package developed to create mosaics of raster data. The package leverages the use of the `futures` package for parallel processing. This package is useful for creating mosaics of time-series data. By utilizing the GDAL capabilities, `FutureMosaic` offers a simple yet powerful tool for spatio-temporal data mosaicking.
 
+> **Note**: This is a **hobby project**
+
 ## Installation
 
 You can install the development version of `futuremosaic` like so:
